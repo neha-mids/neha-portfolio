@@ -44,3 +44,7 @@ Estimated Kaggle rank: 404
 ***W261_FinalProject_GuptaKumarTripathi.pdf:*** Final PDF slide deck. Built a homegrown SparkRDD based implementation of Logistic Regression on a distributed dataset for click through rate and compared results to a SparkML implementation (based on [this Kaggle competition](https://www.kaggle.com/c/criteo-display-ad-challenge))
 - Partner(s): Suhas Gupta (suhasgupta791),  Prabhat Tripathi (ptripathi)
 - Class: Machine Learning at Scale, UC Berkeley Masters in Information and Data Science 
+
+***w266_Political_Text_Classification*** Project using Natural Language Processing to understand candidate stances on key issues. The objective is to provide an infographic where voters can clearly compare candidates' stances on various issues to select a candidate that best represents their ideals
+- Partner(s): Sayan Das (dasxx179)
+- Class: NLP with Deep Learning, UC Berkeley Masters in Information and Data Science 
