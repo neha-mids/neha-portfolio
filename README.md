@@ -49,3 +49,7 @@ Estimated Kaggle rank: 404
 ***w266_Political_Text_Classification*** Project using Natural Language Processing to understand candidate stances on key issues. The objective is to provide an infographic where voters can clearly compare candidates' stances on various issues to select a candidate that best represents their ideals
 - Partner(s): Sayan Das (dasxx179)
 - Class: NLP with Deep Learning, UC Berkeley Masters in Information and Data Science 
+
+***W210_final_presentation_gupta_kumar_sen_zorian.pdf*** Developed a pipeline performing OCR and Information Extraction on photographs of 300K insect specimens. Presented at [2021 iDigBio conference](https://www.idigbio.org/wiki/index.php/5th_Annual_Digital_Data_Conference,_Florida_Museum_of_Natural_History). [Presentation Recording](https://drive.google.com/file/d/11LZyYoOaQcS_RVP_8MkPmI2NM9cdYv_h/view).
+- Partner(s): Suhas Gupta, Shweta Sen, Apik Zorian
+- Class: MIDS Capstone
