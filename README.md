@@ -1,6 +1,5 @@
 # neha-portfolio
-Collection of my work  
-[Check out my website](http://nehakumar.me/)
+Collection of my work
 
 ***w201 Fall 18 _ Individual Project 1_ Neha Kumar.pdf:*** Individual project presenting a potential problem that can be solved by data science (access to feminnine hygiene products in rural and remote regions).  
 - Class: Research Design and Applications for Data and Analysis, UC Berkeley Masters in Information and Data Science 
